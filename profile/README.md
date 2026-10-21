@@ -140,7 +140,11 @@ Click on the sections below to see the repo's.
 | [Status API](https://github.com/openclimatefix/quartz-status) | Status API for Quartz ecosystem | [Brad Fulford](https://github.com/braddf) and [Sol Cotton](https://github.com/devsjc) | 🟠
 | [.github](https://github.com/openclimatefix/.github)                     | Various Community Health Files | [Peter Dudfield](https://github.com/peterdudfield) | 🔴
 
+---
 
+## Contributors
+- Lucky (@palikilaluckyreddy)
+hello everyone
 For a complete list of all of OCF's repositories tagged with "nowcasting", see [this link](https://github.com/search?l=&o=desc&q=topic%3Anowcasting+org%3Aopenclimatefix&s=updated&type=Repositories)
 
 </details>
